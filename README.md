@@ -1,8 +1,3 @@
-# opencart_ecommerce
-Manual testing project for an OpenCart-based e-commerce web application, covering STLC, test scenarios, test cases, RTM, and defect reporting.
-
----
-
 # 🛒 Manual Testing Project – OpenCart E-Commerce Web Application
 
 A comprehensive, end-to-end manual testing project focused on ensuring the quality, reliability, and security of a live OpenCart e-commerce platform. This project demonstrates the full **Software Testing Life Cycle (STLC)**, from requirement analysis to final defect resolution.
@@ -88,7 +83,7 @@ Review the `SQL_Scripts/` folder to see the queries used to verify data persiste
 
 **Kishore Kumar R**
 
-* **LinkedIn:** https://www.linkedin.com/in/kishorekumarrasalay/
-* **GitHub:** https://github.com/kishorekumarrasalay-02
+* [LinkedIn Profile](https://www.linkedin.com/in/kishorekumarrasalay/)
+* [Github Profile](https://github.com/kishorekumarrasalay-02)
 
 ---
