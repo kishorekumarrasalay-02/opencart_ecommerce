@@ -83,6 +83,7 @@ Review the `SQL_Scripts/` folder to see the queries used to verify data persiste
 
 **Kishore Kumar R**
 
+* [Contact Details](+919490946159)
 * [LinkedIn Profile](https://www.linkedin.com/in/kishorekumarrasalay/)
 * [Github Profile](https://github.com/kishorekumarrasalay-02)
 
