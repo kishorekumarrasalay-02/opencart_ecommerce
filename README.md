@@ -31,15 +31,30 @@ A comprehensive, end-to-end manual testing project focused on ensuring the quali
 ```bash
 OpenCart_Manual_Testing/
 │
-├── Test_Plan/             # High-level strategy and scope documentation
-├── Test_Scenarios/        # High-level testing ideas for UI and Functionality
-├── Test_Cases/            # Detailed MS Excel sheets (Positive & Negative scenarios)
-│   ├── User_Authentication_Test_Cases.xlsx
-│   └── Search_Functionality_Test_Cases.xlsx
-├── Defect_Reports/        # Bug reports with screenshots and severity levels
-├── RTM/                   # Requirement Traceability Matrix (Mapping)
-├── SQL_Scripts/           # Queries used for Backend Database validation
-└── Execution_Reports/     # Summary of Test Pass/Fail status
+├── FRS/
+│   ├── FRS_OpenCart_Ecommerce.xlsx
+│   └── FRS_OpenCart_Ecommerce.pdf
+│
+├── Test_Scenarios/
+│   └── Test_Scenarios_OpenCart.xlsx
+│
+├── Test_Cases/
+│   ├── Register_Test_Cases.xlsx
+│   ├── Login_Test_Cases.xlsx
+│   ├── Logout_Test_Cases.xlsx
+│   ├── Forgot_Password_Test_Cases.xlsx
+│   └── Account_Test_Cases.xlsx
+│
+├── RTM/
+│   └── RTM_OpenCart.xlsx
+│
+├── Defect_Reports/
+│   └── Sample_Defect_Report.xlsx
+│
+├── Execution_Reports/
+│   └── Test_Execution_Report.xlsx
+│
+└── README.md
 
 ```
 
