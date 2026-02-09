@@ -450,6 +450,6 @@ Special thanks to:
 
 <div align="center">
 
-### 🌟 If you found this project helpful, please consider giving it a star! 🌟
+### ⭐ If you found this project helpful, please consider giving it a star! ⭐
 
 </div>
