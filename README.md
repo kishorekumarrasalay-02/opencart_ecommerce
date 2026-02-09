@@ -428,9 +428,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Kishore Kumar R**  
+**Kishore Kumar R**
 
 📞 **Mobile:** +91-9490946159  
 📧 **Email:** kishorekumarrasalay05@gmail.com  
