@@ -422,17 +422,6 @@ Status: Fixed & Verified
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Automation of repetitive test cases using Selenium WebDriver
-- [ ] API Testing for backend services
-- [ ] Performance Testing using JMeter
-- [ ] Security Testing for vulnerabilities
-- [ ] Integration with CI/CD pipeline
-- [ ] Test management tool integration (Jira, TestRail)
-
----
-
 ## 📝 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -442,31 +431,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👤 Author
 
 **Kishore Kumar R**  
-*Manual QA Tester | Software Testing Professional*
 
-📧 **Email:** kishorekumarrasalay@gmail.com  
-📱 **Phone:** +91 9490946159  
-🔗 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://www.linkedin.com/in/kishorekumarrasalay/)  
-💻 **GitHub:** [github.com/kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)  
-🌐 **Portfolio:** [Coming Soon]
-
----
-
-## 🤝 Contributing
-
-While this is a personal project for portfolio demonstration, feedback and suggestions are welcome! Feel free to:
-- Open an issue for suggestions
-- Fork the repository for your own learning
-- Share your feedback via LinkedIn
-
----
-
-## 📚 References & Resources
-
-- [OpenCart Official Documentation](https://docs.opencart.com/)
-- [ISTQB Testing Principles](https://www.istqb.org/)
-- [Software Testing Life Cycle (STLC)](https://www.guru99.com/software-testing-life-cycle.html)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+📞 **Mobile:** +91-9490946159  
+📧 **Email:** kishorekumarrasalay05@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://linkedin.com/in/kishorekumarrasalay)  
+🐙 **GitHub:** [github.com/kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
 
 ---
 
@@ -482,9 +451,5 @@ Special thanks to:
 <div align="center">
 
 ### 🌟 If you found this project helpful, please consider giving it a star! 🌟
-
-**Made with ❤️ by Kishore Kumar R**
-
-*Last Updated: February 2026*
 
 </div>
